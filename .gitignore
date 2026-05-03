@@ -3,3 +3,14 @@
 lab3/UCI\ HAR\ Dataset/
 lab3/uci_har_dataset.zip
 lab5/dataset/
+lab5/logs/
+lab5/models/
+lab5/tensorflow/
+lab5/train/
+lab5/trimmed/
+lab5/audio_files.pkl
+lab5/kws.cc
+lab5/speech_micro_train_2020_05_10.tgz
+lab5/tensorflow-v2.14.1.zip
+lab5/yes_no.pkl
+lab5/your_audio_files.pkl

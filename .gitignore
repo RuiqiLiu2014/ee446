@@ -1,5 +1,6 @@
 **/.idea
 **/__MACOSX
+**/.ipynb_checkpoints
 lab3/UCI\ HAR\ Dataset/
 lab3/uci_har_dataset.zip
 lab5/dataset/
@@ -15,10 +16,9 @@ lab5/tensorflow-v2.14.1.zip
 lab5/yes_no.pkl
 lab5/your_audio_files.pkl
 lab6/edge_impulse_flash/
-lab6/autoencoder_fp32.tflite
-lab6/autoencoder_int8.tflite
 lab6/Dataset-README.txt
 lab6/EE446_Lab6_Submission_Guidelines.pdf
 lab6/mHealth_subject6.log
 hw1/wine/
 frisbee/
+**/*.tflite
